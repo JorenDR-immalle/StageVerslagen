@@ -5,5 +5,7 @@
 2. Opstellen van facturen en bonnen.
 3. Uitvoeren van kleine reparaties.
 4. Deelname TeamMeeting.
+5. Bellen van klanten in verband met reparaties.
+
 
 ## 2019-10-01
