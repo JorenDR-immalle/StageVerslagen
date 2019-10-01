@@ -22,4 +22,5 @@
 5. Onderzoek naar case-study, kapotte laptop met meerdere falen (case-study 1)
 6. Onderzoek naar Huis-stijl.
 7. Reparatie van en hp-desktop (defecte RAM en HDD)
+8. Schrijven van powershell script voor installatie MC Office pakketen op D-schijf.
 
