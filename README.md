@@ -16,3 +16,7 @@
 ---
 ## 2019-10-01
 1. Opstellen van een template (in html5) voor een persoonlijk project van stagebegeleider.
+2. 5 Hp Probook's domain joinen en gebruiksklaar maken.
+3. Backup maken van een Acer Predator met waterschade.
+4. Ontwerpen van een site voor OP (Ondernemend project, Tijdens middagpauze)
+
