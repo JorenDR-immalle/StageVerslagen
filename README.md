@@ -9,9 +9,10 @@
 5. Bellen van klanten in verband met reparaties.
 6. Interview Bedrijfseconomische analyse.
 7. Diagnoses stellen bij defecte toestellen.
-8. Het bebruiken van Microsoft Dynamics Nav.
+8. Het gebruiken van Microsoft Dynamics Nav.
 9. Kennismaking met Visio.
 10. Intern toestel geprept/ Domain gejoined voor eigen gebruik.
 
 ---
 ## 2019-10-01
+1. Opstellen van een template (in html5) voor een persoonlijk project van stagebegeleider.
