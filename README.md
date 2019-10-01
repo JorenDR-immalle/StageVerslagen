@@ -23,4 +23,5 @@
 6. Onderzoek naar Huis-stijl.
 7. Reparatie van en hp-desktop (defecte RAM en HDD)
 8. Schrijven van powershell script voor installatie MC Office pakketen op D-schijf.
+9. Uitleg gebruikte tools bij diagnose: MiniTool Partition Wizard, SeaTools, File Scavenger, Recuva, CrystalDiskInfo.
 
