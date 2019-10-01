@@ -19,4 +19,7 @@
 2. 5 Hp Probook's domain joinen en gebruiksklaar maken.
 3. Backup maken van een Acer Predator met waterschade.
 4. Ontwerpen van een site voor OP (Ondernemend project, Tijdens middagpauze)
+5. Onderzoek naar case-study, kapotte laptop met meerdere falen (case-study 1)
+6. Onderzoek naar Huis-stijl.
+7. Reparatie van en hp-desktop (defecte RAM en HDD)
 
