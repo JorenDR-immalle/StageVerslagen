@@ -27,5 +27,8 @@
 
 ---
 ## 2019-10-02
-1.
+1. Vervangen batterij Iphone 7.
+2. HP Pavilion g series laptop bureaublad error (case-study 2).
+3. 2 Laptops updaten en startklaar maken.
+4. 
 
