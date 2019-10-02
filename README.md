@@ -31,4 +31,10 @@
 2. HP Pavilion g series laptop bureaublad error (case-study 2).
 3. 2 Laptops updaten en startklaar maken.
 4. HP pavilion 500 verdere diagnose en klant op de hoogte stellen (HDD defect).
+5. Vervangen scherm Iphone 7 plus.
+6. Diagnose stellen laptop met oplaadproblemen, oplaadjack kapot (valt niet te maken)
+7. Diagnose stellen laptop met update problemen (opgelost m.b.v. updateassistent)
+8. Interview medewerker Arne Cools voor nederlands.
+9. fotoreportage gemaakt voor frans.
+10. Beeldscherm vervangen van HP pavilion
 
