@@ -25,3 +25,7 @@
 8. Schrijven van powershell script voor installatie MC Office pakketen op D-schijf.
 9. Uitleg gebruikte tools bij diagnose: MiniTool Partition Wizard, SeaTools, File Scavenger, Recuva, CrystalDiskInfo.
 
+---
+## 2019-10-02
+1.
+
