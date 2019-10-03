@@ -48,4 +48,5 @@
 6. Interview bevoegde voor bedrijfseconomische-analyse.
 7. Diagnose laptop met vergeten wachtwoord (omzeilen via tool).
 8. 3 Hp probooks startklaar maken met gewenste backups.
+9. backup maken van asus laptop m.b.v. veeam + overzetten naar nieuwe schijf (defecte HDD - Nieuwe SSD).
 
