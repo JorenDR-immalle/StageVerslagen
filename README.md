@@ -45,4 +45,7 @@
 3. HP Envy startklaar maken + backup oud toestel overmaken.
 4. Batterij Ipad Mini vervangen.
 5. Case-study verplaatsing (installeren printer) documenteren.
+6. Interview bevoegde voor bedrijfseconomische-analyse.
+7. Diagnose laptop met vergeten wachtwoord (omzeilen via tool).
+8. 3 Hp probooks startklaar maken met gewenste backups.
 
