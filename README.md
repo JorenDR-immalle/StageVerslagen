@@ -38,3 +38,11 @@
 9. fotoreportage gemaakt voor frans.
 10. Beeldscherm vervangen van HP pavilion
 
+---
+## 2019-10-03
+1. Diagnose laptop met slechte connectie scherm (beeld valt in bepaalde posities weg).
+2. Vervangen grafische kaart acer nitro 15 (gtx 1050, na vervanging werkt alles perfect).
+3. HP Envy startklaar maken + backup oud toestel overmaken.
+4. Batterij Ipad Mini vervangen.
+5. Case-study verplaatsing (installeren printer) documenteren.
+
