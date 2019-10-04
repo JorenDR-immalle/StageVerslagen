@@ -59,7 +59,9 @@
 4.1. Oplossen m.b.v. diagnose tool op laptop (update geforceerd).
 5. Lokaal netwerk opstellen voor meetingruimtes en google chromecast aansluiten aan tv (dit geld voor 3ruimtes).
 6. rondvragen voor informatie als extra aanvulling voor stagetaken.
-7. Laptop typed random toetsen in, het ligt niet aan de software (toetsenbord vervangen, opgelost)
+7. Laptop typed random toetsen in, het ligt niet aan de software (toetsenbord vervangen, opgelost).
+8. Bespreking stagebeoordeling en toekomstgerichte uitleg.
+9. Afscheid van een geslaagde stage.
 
 ---
 
