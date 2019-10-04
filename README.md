@@ -50,3 +50,8 @@
 8. 3 Hp probooks startklaar maken met gewenste backups.
 9. backup maken van asus laptop m.b.v. veeam + overzetten naar nieuwe schijf (defecte HDD - Nieuwe SSD).
 
+---
+## 2019-10-04
+1. Diagnose laptop met oververhittingsproblemen.
+2. HDD blijkt defect, vervangen door SSD + nieuwe koelpasta en nieuwe ventilator.
+
