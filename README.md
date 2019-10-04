@@ -54,4 +54,12 @@
 ## 2019-10-04
 1. Diagnose laptop met oververhittingsproblemen.
 2. HDD blijkt defect, vervangen door SSD + nieuwe koelpasta en nieuwe ventilator.
+3. Benchmark gedraaid op de laptop -> geen warmte problemen meer. (userbenchmark)
+4. Samsung tablet a6 2016 blijft vasthangen in update scherm.
+4.1. Oplossen m.b.v. diagnose tool op laptop (update geforceerd).
+5. Lokaal netwerk opstellen voor meetingruimtes en google chromecast aansluiten aan tv (dit geld voor 3ruimtes).
+6. rondvragen voor informatie als extra aanvulling voor stagetaken.
+7. Laptop typed random toetsen in, het ligt niet aan de software (toetsenbord vervangen, opgelost)
+
+---
 
